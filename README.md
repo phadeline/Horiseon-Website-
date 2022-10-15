@@ -1,4 +1,4 @@
-# <Horiseon Website accessibility>
+# Horiseon Website Accessibility
 
 ## Description
 
